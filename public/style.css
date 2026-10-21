@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+.trip {
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
